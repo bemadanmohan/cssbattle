@@ -1,0 +1,95 @@
+body{
+    background:url('WhatsApp\ Image\ 2024-03-12\ at\ 11.46.38\ PM.jpeg');
+}
+span{
+    color: white;
+    margin: 20px 60px 20px 100px;
+    font-size: 30px;
+    font-family:  'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+#mainbody{
+
+   background-color: #002244;
+    margin: 100px 200px 100px 200px;
+}
+#just{
+
+    margin: 20px 50px 2px 50px;
+    color: #72A0C1;
+    
+    font-family:fantasy;
+    font-weight: 100px;
+    font-size: 50px;
+    display: inline;
+}    
+#let{
+    margin: 2px 50px 20px 50px;
+    color: white;
+    font-weight: 200;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+
+}
+#mad1,#mad2,#mad3,#mad4{
+
+    margin: 5px 2px 5px 50px;
+    font-size:30px ;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 8%;
+    height: 50px;
+    width: 200px;
+    background-color: #0066b2;
+    text-transform: uppercase;
+    color: #6CB4EE;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;;
+}
+
+#textarea{
+
+    background-color: #0066b2 ;
+    margin-left: 50px;
+    margin-top: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;;;
+    font-size:30px  ;
+    padding-left: 30px;
+    padding-top: 20px;
+    border-radius:3%;
+}
+button{
+   
+    margin-left: 50px;
+    margin-top: 10px;
+    font-size:30px  ;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color:#6699CC ;
+}
+#let2,#let3{
+    margin: 2px 50px 5px 50px;
+    color: white;
+    font-weight: 200;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+}
+#let4{
+margin: 20px 50px 20px 50px;
+color: white;
+font-weight: 200;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 30px;
+}
+
+
+#lefthalf{
+    position: absolute;
+    left:750px;
+    top:130px;
+    transform: scale(0.8    );
+
+}
+
+/* #righthalf{
+    left:100px
+    transform: scale(0.7);
+} */
